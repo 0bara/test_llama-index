@@ -1,1 +1,2 @@
-# empty project
+# llama-index を利用して、RAG動作について理解を深めていきたいと思います。
+
